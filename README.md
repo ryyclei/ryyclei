@@ -1,16 +1,14 @@
-### Hi there 👋
+## Ryan Clay
 
-<!--
-**ryyclei/ryyclei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love coding!
+I am a Full Stack Engineer who loves React/Vue, JavaScript/TypeScript, Node.js, Spring, .NetCore, Python and AWS!
 
-Here are some ideas to get you started:
+⚡ Fun fact:
+- 👯 I’m looking to collaborate on projects that are using React/React Native.
+- 🌱 I’m currently learning Web3 and Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Let's Connect :coffee:
+- Cell : 323 801 8664
+- Email : ryancclei@gmail.com
+- https://linkedin.com/in/ryan-clay-dev
